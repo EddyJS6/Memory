@@ -2,7 +2,8 @@
 
 Projet 100% React avec approche fonctionnelle sans class. 
 Utilisation du state, des hooks et des props. 
-Challenge : pas de state global, pas de redux !
+
+Challenge fun : pas de state global, pas de passage de paramètres via React Router, pas de Redux !
 
 ![image du jeu](https://user-images.githubusercontent.com/98640372/151656332-a0b75f3f-93da-4e9a-a6e2-bef9ae2c817d.png)
 
